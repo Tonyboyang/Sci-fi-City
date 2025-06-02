@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UE Project/Sci_fi_racing/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/UE Project/Sci_fi_racing/Content/LevelPrototyping/Materials/MI_PrototypeGrid_SkyBlue.uasset",
+				"E:/UE Project/Sci_fi_racing/Content/LevelPrototyping/Materials/MI_PrototypeGrid_OceanBlue.uasset",
+				"E:/UE Project/Sci_fi_racing/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Orange.uasset",
+				"E:/UE Project/Sci_fi_racing/Content/LevelPrototyping/Materials/MI_PrototypeGrid_DarkGreen.uasset",
+				"E:/UE Project/Sci_fi_racing/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Yellow.uasset",
+				"E:/UE Project/Sci_fi_racing/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Green.uasset",
+				"E:/UE Project/Sci_fi_racing/Content/LevelPrototyping/Materials/MI_PrototypeGrid_White.uasset",
+				"E:/UE Project/Sci_fi_racing/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Black.uasset",
+				"E:/UE Project/Sci_fi_racing/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Red.uasset",
+				"E:/UE Project/Sci_fi_racing/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Purple.uasset",
+				"E:/UE Project/Sci_fi_racing/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Pink.uasset",
+				"E:/UE Project/Sci_fi_racing/Content/BP_Actor/Spline_Tool.uasset",
+				"E:/UE Project/Sci_fi_racing/Content/Level/SciFi_City.umap",
+				"E:/UE Project/Sci_fi_racing/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/OM/FJEVKK4QKYRR0MJBCHIRLI.uasset",
+				"E:/UE Project/Sci_fi_racing/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/9A/ZTJLJYC20Z8EARR8JHBPBX.uasset",
+				"E:/UE Project/Sci_fi_racing/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/O3/5B11NJMXEPJVMI312YEJD7.uasset",
+				"E:/UE Project/Sci_fi_racing/Content/StaticMesh/Space_Elevator.uasset",
+				"E:/UE Project/Sci_fi_racing/Content/StaticMesh/Ring.uasset",
+				"E:/UE Project/Sci_fi_racing/Content/StaticMesh/Top_Ring_1.uasset",
+				"E:/UE Project/Sci_fi_racing/Content/StaticMesh/Top_Ring_2.uasset",
+				"E:/UE Project/Sci_fi_racing/Content/Top_Ring_3.uasset",
+				"E:/UE Project/Sci_fi_racing/Content/StaticMesh/Top_Ring_4.uasset",
+				"E:/UE Project/Sci_fi_racing/Content/StaticMesh/Top_Ring_5.uasset",
+				"E:/UE Project/Sci_fi_racing/Content/StaticMesh/Cylinder_Brush7_StaticMesh.uasset",
+				"E:/UE Project/Sci_fi_racing/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/92/F2JONEH9RPOLCOGAKMURR7.uasset"
+			]
+		}
+	]
+}
